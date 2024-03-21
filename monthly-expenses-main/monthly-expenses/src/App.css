@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* App.css */
+.bg-custom-background {
+    background-color: #f5d4cb;
+}
+.bg-header-color{
+    background-color: #5f6d4c;
+}
+.bold-text {
+    font-weight: bold;
+}
+
